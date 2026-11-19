@@ -1,0 +1,8 @@
+{
+  "name": "Construction Empire 3D",
+  "description": "Build a thriving construction company in a stylized 3D city — operate heavy machinery, excavate foundations, pour concrete, manage workers, and complete building contracts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
